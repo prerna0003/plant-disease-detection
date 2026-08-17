@@ -1,0 +1,11 @@
+Image,Actual,Predicted,Confidence (%),Result
+3ff572ac-0f2f-494a-9c64-99ae63d318ef___Com.G_SpM_FL 1242.JPG,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,99.8,Correct
+37dbf454-f189-4fae-a9e7-a088e7be3f2e___RS_LB 4530.JPG,Potato___Late_blight,Potato___Late_blight,99.95,Correct
+c8080916-dd9d-40c4-a39b-1957ebd17b87___NREC_B.Spot 9115.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,100.0,Correct
+05a76480-4ffe-476f-a101-fdadd8b3fbcf___Com.G_SpM_FL 9329.JPG,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,100.0,Correct
+08b479e4-0063-41e5-b85d-279b9aedd38f___UF.GRC_BS_Lab Leaf 0485.JPG,Tomato_Bacterial_spot,Tomato_Bacterial_spot,100.0,Correct
+02baf62e-11e2-4dde-97fb-e369b57d55d3___JR_B.Spot 8971.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,99.99,Correct
+fe79c70c-0977-43f3-ad1b-3a1b4bceeceb___RS_Erly.B 7506.JPG,Tomato_Early_blight,Tomato_Early_blight,99.68,Correct
+78c0dc05-0bac-43fd-81b5-b10b61f666cd___GH_HL Leaf 481.5.JPG,Tomato_healthy,Tomato_healthy,100.0,Correct
+103210e0-a963-4d63-a23f-0e1bbe7f2f58___UF.GRC_YLCV_Lab 01639.JPG,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,99.99,Correct
+0a3ec09c-ccf4-49ab-bae2-f82f913aa9c8___Com.G_SpM_FL 9444.JPG,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,99.99,Correct
